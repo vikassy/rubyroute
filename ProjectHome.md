@@ -1,0 +1,3 @@
+This is a very simple traceroute written in Ruby. I wrote this just to see how difficult it would be (compared to C or Perl). Surely this isn't a complete tool, but you can use it to learn or teach how traceroute works and enhance to suit your needs. Feel free to send me patches. I don't think that I'll be writting new versions, so please don't ask if I can code any new features. If you want them to be there, write them and send me diffs.
+
+How to use it: download source, examine for safety, run it with `./rubyroute.rb <host>`.
